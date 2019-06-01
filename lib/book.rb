@@ -10,8 +10,9 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
 
-  def genres(genre)
+  def genre=(genre)
     
+
   end
 
 end
